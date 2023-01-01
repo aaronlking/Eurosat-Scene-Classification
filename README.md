@@ -1,2 +1,2 @@
 # Eurosat-Scene-Classification
-This project uses TensorFlow to train and build a land classification model with the EuroSAT dataset.
+This project uses TensorFlow to train and build a land classification model with the [EuroSAT dataset](https://github.com/phelber/EuroSAT). The goal was to construct a neural network that classifies a satellite image into one of 10 classes, as well as apply some of the saving and loading techniques available from [TensorFlow Keras](https://keras.io/about/) libraries. In addition, transfer learning is leveraged to help perform more accurate classification on this dataset.
